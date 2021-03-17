@@ -5,7 +5,7 @@ date: '2021-03-03'
 
 I just launched a new bootcamp!
 
-![MernStack](mern-stack.jpg)
+![MernStack](./mern-stack.jpg)
 
 ## Topics Covered
 

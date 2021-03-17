@@ -30,7 +30,7 @@ module.exports = {
             options: {
               maxWidth: 750,
               linkImagesToOriginal: false,
-              ignoreFileExtensions: [],
+              // ignoreFileExtensions: [],
             }
           }
         ]
